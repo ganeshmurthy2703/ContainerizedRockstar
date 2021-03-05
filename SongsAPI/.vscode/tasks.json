@@ -60,8 +60,7 @@
             "dockerRun": {},
             "netCore": {
                 "appProject": "${workspaceFolder}/SongsAPI.csproj",
-                "enableDebugging": true,
-                "configureSsl": false
+                "enableDebugging": true
             }
         },
         {

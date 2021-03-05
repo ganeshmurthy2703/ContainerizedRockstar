@@ -20,6 +20,7 @@ class SongView extends React.Component{
         })
     }
 
+
     getSentiment(){
         fetch('http://localhost:8080/sentiment',
                     {

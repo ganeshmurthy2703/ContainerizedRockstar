@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pcew564cb1yGumDO3kWwrwyYQBUnIq7P2gKujpvaV1HGFFlnZ/0a4YfHxbylFEuwB3W8nD2cStRS0VQcMB+A7Q==",
+  "dgSpecHash": "HDP8VdqrxievsDvLECrFmle4EtS2Dv8zt5aQJxW7Lmphc8k3czb8BFKEB7JSqL86727pWWhN3iqmGECRZehRaQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ganes\\Desktop\\Fourth Sem\\DevOps\\Assignments\\API_MVC_React\\SongsAPI\\SongsAPI.csproj",
+  "projectFilePath": "C:\\Users\\ganes\\Desktop\\Fourth Sem\\DevOps\\Assignments\\ContainerizedRockstar\\SongsAPI\\SongsAPI.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

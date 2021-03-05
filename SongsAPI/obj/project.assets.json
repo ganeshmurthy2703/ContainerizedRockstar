@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ganes\\Desktop\\Fourth Sem\\DevOps\\Assignments\\API_MVC_React\\SongsAPI\\SongsAPI.csproj",
+      "projectUniqueName": "C:\\Users\\ganes\\Desktop\\Fourth Sem\\DevOps\\Assignments\\ContainerizedRockstar\\SongsAPI\\SongsAPI.csproj",
       "projectName": "SongsAPI",
-      "projectPath": "C:\\Users\\ganes\\Desktop\\Fourth Sem\\DevOps\\Assignments\\API_MVC_React\\SongsAPI\\SongsAPI.csproj",
+      "projectPath": "C:\\Users\\ganes\\Desktop\\Fourth Sem\\DevOps\\Assignments\\ContainerizedRockstar\\SongsAPI\\SongsAPI.csproj",
       "packagesPath": "C:\\Users\\ganes\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ganes\\Desktop\\Fourth Sem\\DevOps\\Assignments\\API_MVC_React\\SongsAPI\\obj\\",
+      "outputPath": "C:\\Users\\ganes\\Desktop\\Fourth Sem\\DevOps\\Assignments\\ContainerizedRockstar\\SongsAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ganes\\AppData\\Roaming\\NuGet\\NuGet.Config",

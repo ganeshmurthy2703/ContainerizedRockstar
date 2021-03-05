@@ -3,9 +3,11 @@ import React, { Component } from 'react';
 import { Navbar, Nav, Form, NavDropdown, FormControl, Button } from 'react-bootstrap';
 import { Link, BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import SongView from './SongView';
+import CommsTest from './CommsTest';
 import Home from './Home';
 
 function App() {
+
   return (
     <Router>
     <div className="App">
@@ -43,6 +45,23 @@ function App() {
 
   <Route path="/SweetChild">
     <SongView baseUrl = "LemonTree" songKey = "SweetChild" />
+  </Route>
+
+
+  <Route path="/testHealth">
+    <p>Hello from react frontend</p>
+  </Route>
+
+  <Route path="/testCommsApi">
+    <CommsTest baseUrl = "testHealth" />
+  </Route>
+
+  <Route path="/testCommsJava">
+    <CommsTest baseUrl = "testHealth" />
+  </Route>
+
+  <Route path="/testCommsPython">
+    <CommsTest baseUrl = "testHealth" />
   </Route>
 
   <Route path="/">

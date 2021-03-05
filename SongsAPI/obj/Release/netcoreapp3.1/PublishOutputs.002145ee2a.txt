@@ -1,0 +1,7 @@
+C:\Users\ganes\Desktop\Fourth Sem\DevOps\Assignments\ContainerizedRockstar\SongsAPI\bin\Release\netcoreapp3.1\publish\SongsAPI.exe
+C:\Users\ganes\Desktop\Fourth Sem\DevOps\Assignments\ContainerizedRockstar\SongsAPI\bin\Release\netcoreapp3.1\publish\appsettings.Development.json
+C:\Users\ganes\Desktop\Fourth Sem\DevOps\Assignments\ContainerizedRockstar\SongsAPI\bin\Release\netcoreapp3.1\publish\appsettings.json
+C:\Users\ganes\Desktop\Fourth Sem\DevOps\Assignments\ContainerizedRockstar\SongsAPI\bin\Release\netcoreapp3.1\publish\SongsAPI.dll
+C:\Users\ganes\Desktop\Fourth Sem\DevOps\Assignments\ContainerizedRockstar\SongsAPI\bin\Release\netcoreapp3.1\publish\SongsAPI.deps.json
+C:\Users\ganes\Desktop\Fourth Sem\DevOps\Assignments\ContainerizedRockstar\SongsAPI\bin\Release\netcoreapp3.1\publish\SongsAPI.runtimeconfig.json
+C:\Users\ganes\Desktop\Fourth Sem\DevOps\Assignments\ContainerizedRockstar\SongsAPI\bin\Release\netcoreapp3.1\publish\SongsAPI.pdb

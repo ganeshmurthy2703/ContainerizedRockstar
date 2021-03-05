@@ -22,10 +22,10 @@ namespace SongsAPI.Controllers
         }
 
         [HttpGet]
-        [Route("[controller]")]
+        [Route("testHealth")]
         public String Get()
         {
-            return "<h1>Lemon Tree</h1>";
+            return "Hello from the Songs API";
         }
 
         [HttpGet]
